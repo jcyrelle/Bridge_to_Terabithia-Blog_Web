@@ -125,7 +125,7 @@ p {
    HERO SECTION
 ===================== */
 .hero {
-    height: 90vh;
+    height: 115vh;
     background:
         linear-gradient(rgba(15,47,31,0.75), rgba(18,18,18,0.9)),
         url('p1.jpg') center/cover no-repeat;
@@ -426,3 +426,4 @@ footer {
         height: 180px;
     }
 }
+
